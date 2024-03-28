@@ -9,6 +9,7 @@ public class SampleBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SampleBackendApplication.class, args);
 		System.out.println("test");
+		
 	}
 
 }
